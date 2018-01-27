@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "build.js": "^0.3.0",
+    "express": "^4.14.0",
+    "fibers": "^2.0.0",
+    "hbs": "^4.0.0",
+    "nbs": "^3.1.1",
+    "node": "0.0.0",
+    "node-gyp": "^3.6.2"
+  }
+}
